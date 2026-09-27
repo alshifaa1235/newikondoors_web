@@ -54,7 +54,7 @@
       ]
     },
     {
-      "source": "/(hero_door_opening\\.(mp4|webm)|hero_door_poster\\.jpg)",
+      "source": "/(hero_door_opening\\.(?:mp4|webm)|hero_door_poster\\.jpg)",
       "headers": [
         {
           "key": "Cache-Control",
